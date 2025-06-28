@@ -1,6 +1,7 @@
-llama-index>=0.10.0
-google-generativeai
+llama-index==0.12.44
+llama-index-embeddings-langchain
+langchain
+langchain-community
+sentence-transformers
 pypdf
 python-dotenv
-sentence-transformers
-langchain
