@@ -1,0 +1,6 @@
+llama-index>=0.10.0
+google-generativeai
+pypdf
+python-dotenv
+sentence-transformers
+langchain
